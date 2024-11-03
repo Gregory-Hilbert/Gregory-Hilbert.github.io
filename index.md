@@ -96,7 +96,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Medium image
 
 ![CompTIA Certification](https://github.com/Gregory-Hilbert/Gregory-Hilbert.github.io/blob/main/Images/ComptiaCert.png)
 
