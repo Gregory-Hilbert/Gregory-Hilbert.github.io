@@ -98,7 +98,8 @@ end
 
 ### Medium image
 
-![CompTIA Certification](https://github.com/Gregory-Hilbert/Gregory-Hilbert.github.io/blob/main/Images/ComptiaCert.png)
+<img src="Images/ComptiaCert.png" alt="CompTIA Certification" style="width: 700px; height: auto; display: block; margin: 20px auto;">
+
 
 
 
