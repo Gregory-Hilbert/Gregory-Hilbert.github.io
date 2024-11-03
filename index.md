@@ -98,8 +98,8 @@ end
 
 ### Large image
 
-![Branching](ComptiaCert.png)
-)
+![CompTIA Certification](https://github.com/Gregory-Hilbert/Gregory-Hilbert.github.io/blob/main/Images/ComptiaCert.png)
+
 
 
 ### Definition lists can be used with HTML syntax.
