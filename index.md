@@ -1,3 +1,4 @@
+<a id="top"></a>
 --- In progress, excuse the mess :) 
 
 [Link to another page](./another-page.html).
@@ -112,4 +113,4 @@ end
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-<a id="top"></a>
+[Home](#top)
