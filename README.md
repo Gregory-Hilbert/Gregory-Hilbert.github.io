@@ -2,7 +2,7 @@
 
 Thanks for viewing my IT & Cybersecurity repository! This repository contains my background, hands-on projects, and relevant certifications.
 
-Full view of [my portfolio](index.md)
+Full view of [my portfolio](https://gregory-hilbert.github.io/)
 
 ## Overview of Contents
 
