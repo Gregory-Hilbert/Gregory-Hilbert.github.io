@@ -11,9 +11,9 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Welcome! Explore My IT and Cybersecurity Portfolio
-
+```
 Showcasing what I've learned and accomplished since I began my journey into IT and Cybersecurity. What you'll find: My background, hands-on projects, and relevant certifications.
-
+```
 ## Header 2
 
 > This is a blockquote following a header.
