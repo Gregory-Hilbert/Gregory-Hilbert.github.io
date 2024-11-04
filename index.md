@@ -96,8 +96,8 @@ These projects showcase my practical experience and skills. These are my most re
  - Defensive security: Used digital forensics to defend against live cyber attacks, where time was of the essence
 
 ### Coming Soon (2024)
-- Placeholder
-- Text
+- More projects
+- More labs
 
 [Click to see my projects and labs more in depth](Projects.md)
 
