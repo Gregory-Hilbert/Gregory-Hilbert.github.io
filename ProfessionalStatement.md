@@ -7,3 +7,5 @@ I believe in constant growth. This year, I earned certifications like CompTIA Ne
 What excites me most about Cybersecurity and IT is how the field is constantly changing. There’s always something new to learn. Being able to keep my mind engaged while helping others, whether that be clients or co-workers, is what I strive to achieve. In my most recent asset protection position, the AP leader said something that left a lasting impact. “You grow most when you're uncomfortable.” That's not to say that your work environment should be hostile, but rather you grow most personally and professionally when you're challenged. 
 
 I’m excited to keep building my skills, having new experiences, and making a positive impact in the IT and Cybersecurity community. With a solid foundation of technical know-how, a commitment to my values, and a real passion for technology, I look forward to tackling new challenges while helping both clients and organizations alike stay secure. 
+
+### [Home](index.md) 
