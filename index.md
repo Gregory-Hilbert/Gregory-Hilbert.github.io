@@ -27,7 +27,7 @@ Professional Statement: [Professional Statement](ProfessionalStatement.md)
 ---
 
 ### Background
-My first "real" job was at the age of 17 in a customer service related job. During my time at this job, I managed to impress a local pharmacy manager with my work ethic. This led to me taking a position at Walmart Pharmacy. My performance in the pharmacy eventually led to me being promoted to management, and most recently an asset protection position. Along the way, one thing has been constant. The use of technology. I have always been fascinated with how things work, and fixing them when they don't work. I had already began about thinking about what I wanted next in my career, and in February of 2024 I decided to to earn my Google Cybersecurity Certificate. After completing that course, it solidified the fact that I want to work in IT & Cybersecurity. 
+My first "real" job was at the age of 17 in a customer service related job. During my time at this job, I managed to impress a local pharmacy manager with my work ethic. This led to me taking a position at Walmart Pharmacy. My performance in the pharmacy eventually led to me being promoted to management, and most recently an asset protection position. Along the way, one thing has been constant. The use of technology. I have always been fascinated with how things work, and fixing them when they don't work. I had already began thinking about what I wanted next in my career, and in February of 2024 I decided to to earn my Google Cybersecurity Certificate. After completing that course, it solidified the fact that I want to work in IT & Cybersecurity. 
 
 ---
 
