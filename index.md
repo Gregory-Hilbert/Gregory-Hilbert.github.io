@@ -20,7 +20,7 @@ Showcasing what I've learned and accomplished since I began my journey into IT a
 ---
 
 ## Who I am
-Hello! I’m Gregory Hilbert, an aspiring IT professional with a unique blend of experience in business management, data analysis, and supporting IT operations while in non IT roles. My curiosity and excitement for solving problems have led me to develop a strong interest in information technology, especially in **network engineering** and **blue teaming**. Right now, I’m dedicated to deepening my knowledge in networking, threat detection, and network security as I pursue my first official role in IT or Cybersecurity.
+Hello! I’m Gregory Hilbert, an aspiring IT professional with a unique blend of experience in business management, data analysis, and supporting IT operations while in non IT roles. My curiosity and excitement for solving problems have led me to develop a strong interest in information technology, especially in **network engineering** and **blue teaming**. I’m committed to gaining a more technical understanding of how networks operate, and how we can best configure those networks as I pursue my first official role in IT or Cybersecurity.
 
 Professional Statement: [Professional Statement](ProfessionalStatement.md)
 
