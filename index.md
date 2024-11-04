@@ -1,116 +1,111 @@
 <a id="top"></a>
 --- In progress, excuse the mess :) 
 
-[Link to another page](./another-page.html).
-
 # Welcome! Explore My IT and Cybersecurity Portfolio
 
 Showcasing what I've learned and accomplished since I began my journey into IT and Cybersecurity. What you'll find: My background, relevant certifications, labs, and hands-on projects 
 
-## Header 2
+## Table of Contents
+ - [Who I am](#who-i-am)
+   - [Background](#background)
+   - [📜 Certifications](#-certifications)
+   - [🎓 Education](#-education)
+   - [Skills](#skills)
+     - [Technical Skills](technical-skills)
+     - [Professional Skills](professional-skills)
+     - [Tools & Languages](tools-&-languages)
+- [🖳 My Projects & Labs](#my-projects--labs)
+- [📁 Resume](#-resume)
+- [📧 Contact Information](#-contact-information)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Who I am
+Hello! I’m Gregory Hilbert, an aspiring IT professional with a unique blend of experience in business management, data analysis, and supporting IT operations while in non IT roles. My curiosity and excitement for solving problems have led me to develop a strong interest in information technology, especially in **network engineering** and **blue teaming**. Right now, I’m dedicated to deepening my knowledge in networking, threat detection, and network security as I pursue my first official role in IT or Cybersecurity.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Read my professional statement: [Professional Statement](Professional_Statement.md)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+### Background
+My first "real" job was at the age of 17 in a customer service related job. During my time at this job, I managed to impress a local pharmacy manager with my work ethic. This led to me taking a position at Walmart Pharmacy. My performance in the pharmacy eventually led to me being promoted to management, and most recently an asset protection position. Along the way, one thing has been constant. The use of technology. I have always been fascinated with how things work, and fixing them when they don't work. I had already began about thinking about what I wanted next in my career, and in February of 2024 I decided to to earn my Google Cybersecurity Certificate. After completing that course, it solidified the fact that I want to work in IT & Cybersecurity. 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### 📜 Certifications
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- CompTIA Network+
+- Google CyberSecurity Professional
+- CompTIA Security+ (in progress)
+  
+---
 
-###### Header 6
+### 🎓 Education
+   - ***Cisco Networking Academy*** (2024-Present)
+      - Completed coursework in Network Configuration
+      - Began CCNA certification prep course (SRWE focused)
+   - ***Anderson County Highschool, Lawrenceburg, KY*** (2005-2009)
+      - High School Diploma
+      - Graduated from a top 20% school in Kentucky, ranked in the top 20% of graduating class
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+###  Skills
 
-* * *
+#### Technical Skills
+   - Network Management
+   - Network Security
+   - Network Troubleshooting
+   - DHCP
+   - Vulnerability Management
+   - SIEM Tools
+   - Risk Assessment
+   - Routing and Switching
+   - **Authentication, Authorization, and Accounting (AAA)**
+   - **CIA Triad (Confidentiality, Integrity, Availability)**
+   
+#### Tools & Languages
+Note from the author: These are tools that I am confident enough to use to complete any given task, although I may or may not need to reference the syntax involved when using them. 
+   - Wireshark
+   - BurpSuite
+   - Linux
+   - Python
+   - Git
+   - Cisco Packet Tracer
+     
+#### Professional Skills
+   - Security Operations
+   - Customer Service
+   - Analysis
+   - Excellent Written and Verbal Communication Skills 
+   - Delegation
+   - Financial Reporting
+   - Leadership Training
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## My Projects & Labs
 
-### And an ordered list:
+These projects showcase my practical experience and skills. These are my most recent projects:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Project Summary: Cisco Network Configuration (November 2024)
+- Configured a simple network using 4 PCs, 2 Cisco switches, and a Cisco router
+- Established connectivity between the devices by configuring the router's gigabit Ethernet ports and manually assigning static IP addresses to the PCs
+  
+### Coming Soon (2024)
+- Placeholder
+- Text
 
-### And a nested list:
+[Click to see my projects and labs more in depth](Projects.md)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+---
 
-### Small image
+## 📁 Resume
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Medium image
-
-<img src="Images/ComptiaCert.png" alt="CompTIA Certification" style="width: 700px; height: auto; display: block; margin: 20px auto;">
-
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+View/Download my [resume](October2024Resume.pdf) 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Fun, scrolling bar ->     ->                   ->            almost there...                         ->                           You made it!
 ```
 
 [Home](#top)
