@@ -13,7 +13,7 @@ Showcasing what I've learned and accomplished since I began my journey into IT a
      - [Technical Skills](#technical-skills)
      - [Professional Skills](#professional-skills)
      - [Tools & Languages](#tools--languages)
-- [🖳 My Projects & Labs](#my-projects--labs)
+- [🖥️ My Projects & Labs](#my-projects--labs)
 - [📁 Resume](#-resume)
 - [📧 Contact Information](#-contact-information)
 
