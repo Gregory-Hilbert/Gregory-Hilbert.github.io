@@ -1,4 +1,4 @@
-_“In IT and Cybersecurity, you succeed by staying one step ahead.”_
+### ***_“In IT and Cybersecurity, you succeed by staying one step ahead.”_***
 
 Hi there! I’m Gregory Hilbert, an aspiring IT & Cybersecurity professional who is passionate about all things networking and technology. Like a lot of my peers, my journey started with a curiosity for how things work and my love of problem solving. Every position in my career has required learning new technology. I have always loved mastering these technologies so I can troubleshoot them and teach others how to use them. That same drive is what is driving me to pursue a path of network engineering and blue teaming. 
 
