@@ -57,7 +57,7 @@ My first "real" job was at the age of 17 in a customer service related job. Duri
    - Network Troubleshooting
    - DHCP
    - Vulnerability Management
-   - SIEM Tools
+   - SIEM
    - Risk Assessment
    - Routing and Switching
    - **Authentication, Authorization, and Accounting (AAA)**
