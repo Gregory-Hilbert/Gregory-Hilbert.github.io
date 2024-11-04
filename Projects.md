@@ -26,7 +26,7 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ## Labs
 
-### TryHackMe [Public Profile](https://tryhackme.com/r/p/Gahilbe91)
+### TryHackMe
    - **Introduction to Cybersecurity Path**  <a href="Images/IntrotoCyberSecurityTHMCertificate.png" target="_blank">
   <img src="Images/IntrotoCyberSecurityTHMCertificate.png" alt="TryHackMe Intro to Cyber Security Certificate" width="150" />
 </a>
@@ -36,4 +36,5 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 --- 
 
+## TryHackMe <a href="https://tryhackme.com/r/p/Gahilbe91" target="_blank">Public Profile</a>
 [Main Portfolio Page](index.md)
