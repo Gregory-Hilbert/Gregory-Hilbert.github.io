@@ -1,5 +1,4 @@
 <a id="top"></a>
---- In progress, excuse the mess :) 
 
 # Welcome! Explore My IT and Cybersecurity Portfolio
 
@@ -23,7 +22,7 @@ Showcasing what I've learned and accomplished since I began my journey into IT a
 ## Who I am
 Hello! I’m Gregory Hilbert, an aspiring IT professional with a unique blend of experience in business management, data analysis, and supporting IT operations while in non IT roles. My curiosity and excitement for solving problems have led me to develop a strong interest in information technology, especially in **network engineering** and **blue teaming**. Right now, I’m dedicated to deepening my knowledge in networking, threat detection, and network security as I pursue my first official role in IT or Cybersecurity.
 
-Read my professional statement: [Professional Statement](Professional_Statement.md)
+Professional Statement: [Professional Statement](ProfessionalStatement.md)
 
 ---
 
@@ -103,6 +102,14 @@ These projects showcase my practical experience and skills. These are my most re
 ## 📁 Resume
 
 View/Download my [resume](October2024Resume.pdf) 
+
+## 📧 Contact Information
+
+Should you have any questions, opportunities, or want to connect, please don't hesitate to contact me: 
+
+- **Email**: [gahilbert91@gmail.com](mailto:gahilbert91@gmail.com)
+- **LinkedIn**: [Gregory Hilbert](https://www.linkedin.com/in/gregory-hilbert/)
+- **Portfolio**: [@Gregory-Hilbert](https://gregory-hilbert.github.io/)
 
 ```
 Fun, scrolling bar ->     ->                   ->            almost there...                         ->                           You made it!
