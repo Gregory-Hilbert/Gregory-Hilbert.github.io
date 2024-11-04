@@ -18,7 +18,7 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ## Projects
 ### Cisco Network Configuration 
-[View Diagram](Project PDFs/FirstConfiguredNetwork.pdf) <!-- Consider changing wording from diagram to report depending on what I'm showcasing -->
+[View Detailed Overview](Project PDFs/NetworkConfigurationProject.pdf) <!-- Consider changing wording from diagram to report depending on what I'm showcasing -->
    - Configured a simple network using 4 PCs, 2 Cisco switches, and a Cisco router
    - Established connectivity between the devices by configuring the router's gigabit ethernet ports and manually assigning static IP addresses to the PCs 
 
