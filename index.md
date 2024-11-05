@@ -87,6 +87,10 @@ Note from the author: These are tools that I am confident enough to use to compl
 
 These projects showcase my practical experience and skills. These are my most recent projects:
 
+### DHCP Server Configuration (November 2024) <span style="color:magenta;">[Project]</span>
+- Configured a DHCP server with 2 different networks attached, utilizing static and dynamic IP addressing.
+- Created rules to avoid IP address conflicts, while maintaining routability across the networks. 
+
 ### Cisco Network Configuration (November 2024) <span style="color:magenta;">[Project]</span>
 - Configured a simple network using 4 PCs, 2 Cisco switches, and a Cisco router
 - Established connectivity between the devices by configuring the router's gigabit Ethernet ports and manually assigning static IP addresses to the PCs
