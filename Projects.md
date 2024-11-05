@@ -9,6 +9,7 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ## Table of Contents
 - [Projects](#projects)
+  - [DHCP Server Configuration](dhcp-server-configuration)
   - [Cisco Network Configuration](#cisco-network-configuration)
 
 - [Labs](#labs)
@@ -17,6 +18,11 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 ---
 
 ## Projects
+### DHCP Server Configuration
+[View Report](Project PDFs/DHCPconfigurationProject.pdf)
+- Configured a DHCP server with 2 different networks attached, utilizing static and dynamic IP addressing.
+- Created rules to avoid IP address conflicts, while maintaining routability across the networks.
+
 ### Cisco Network Configuration 
 [View Detailed Overview](Project PDFs/NetworkConfigurationProject.pdf) <!-- Consider changing wording from diagram to report depending on what I'm showcasing -->
    - Configured a simple network using 4 PCs, 2 Cisco switches, and a Cisco router
