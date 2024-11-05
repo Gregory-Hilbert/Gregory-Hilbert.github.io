@@ -9,7 +9,7 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ## Table of Contents
 - [Projects](#projects)
-  - [DHCP Server Configuration](dhcp-server-configuration)
+  - [DHCP Server Configuration](#dhcp-server-configuration)
   - [Cisco Network Configuration](#cisco-network-configuration)
 
 - [Labs](#labs)
