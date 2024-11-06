@@ -32,6 +32,12 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ## Labs
 
+### Python: Identifying Unusual Login Patterns With the Use of Functions
+ [View .PY File](Misc Files/AnalyzingLoginAttemptsWithPython.py)
+ - Used Python to help identify potentially malicious login activity
+ - Utilized built-in functions to analyze monthly failed login attempts and created a function to compare daily login attempts to the user’s average
+ - Established parameters in functions, indenting the logic underneath of them so they were properly stored in the function
+
 ### TryHackMe
    - **Introduction to Cybersecurity Path**  <a href="Images/IntrotoCyberSecurityTHMCertificate.png" target="_blank">
   <img src="Images/IntrotoCyberSecurityTHMCertificate.png" alt="TryHackMe Intro to Cyber Security Certificate" width="150" />
