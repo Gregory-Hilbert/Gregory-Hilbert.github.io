@@ -115,7 +115,7 @@ These projects showcase my practical experience and skills. These are my most re
 
 ## 📁 Resume
 
-View/Download my [resume](October2024Resume.pdf) 
+View/Download my [resume](CurrentResume.pdf) 
 
 ## 📧 Contact Information
 
