@@ -60,18 +60,19 @@ My first "real" job was at the age of 17 in a customer service related job. Duri
    - SIEM
    - Risk Assessment
    - Routing and Switching
-   - **Authentication, Authorization, and Accounting (AAA)**
-   - **CIA Triad (Confidentiality, Integrity, Availability)**
+   - Authentication, Authorization, and Accounting (AAA)
+   - CIA Triad (Confidentiality, Integrity, Availability)
    
 #### Tools & Languages
 Note from the author: These are tools that I am confident enough to use to complete any given task, although I may or may not need to reference the syntax involved when using them. 
-   - Wireshark
-   - BurpSuite
+   - Windows
    - Linux
-   - Python
    - Git
    - Cisco Packet Tracer
-     
+   - Python
+   - Wireshark
+   - BurpSuite  
+
 #### Professional Skills
    - Security Operations
    - Customer Service
