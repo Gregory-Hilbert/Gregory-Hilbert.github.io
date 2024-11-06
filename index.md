@@ -102,7 +102,7 @@ These projects showcase my practical experience and skills. These are my most re
 
 ### Python: Identifying Unusual Login Patterns With the Use of Functions (March 2024) <span style="color:green;">[Lab]</span>
  - Used Python to help identify potentially malicious login activity, using a list containing the number of failed attempts that occurred each month
- - Established parameters in functions, indenting the logic underneath of them so they were properly stored in the function.
+ - Established parameters in functions, indenting the logic underneath of them so they were properly stored in the function
 
 
 ### Coming Soon (2024)
