@@ -13,6 +13,7 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
   - [Cisco Network Configuration](#cisco-network-configuration)
 
 - [Labs](#labs)
+  - [Python](#python)
   - [TryHackMe](#tryhackme)
 
 ---
@@ -32,7 +33,8 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ## Labs
 
-### Python: Identifying Unusual Login Patterns With the Use of Functions
+### Python 
+   - **Identifying Unusual Login Patterns With the Use of Functions**
  [View .PY File](Misc Files/AnalyzingLoginAttemptsWithPython.py)
  - Used Python to help identify potentially malicious login activity
  - Utilized built-in functions to analyze monthly failed login attempts and created a function to compare daily login attempts to the user’s average
