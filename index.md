@@ -100,6 +100,11 @@ These projects showcase my practical experience and skills. These are my most re
  - Offensive security: Successfully hacked web applications, taking advantage of common security issues
  - Defensive security: Used digital forensics to defend against live cyber attacks, where time was of the essence
 
+### Python: Identifying Unusual Login Patterns With the Use of Functions (March 2024) <span style="color:green;">[Lab]</span>
+ - Used Python to help identify potentially malicious login activity, using a list containing the number of failed attempts that occurred each month
+ - Established parameters in functions, indenting the logic underneath of them so they were properly stored in the function.
+
+
 ### Coming Soon (2024)
 - More projects
 - More labs
