@@ -9,7 +9,7 @@ Full view of [my portfolio](https://gregory-hilbert.github.io/)
 - **Certifications**: Relevant certifications: CompTIA Network+, CompTIA Security+(in progress), Google Cybersecurity Professional
 - **Labs**: Hands on lab experiences from sites like TryHackMe
 - **Projects**: Showcasing key IT projects, including simulations from Cisco Packet Tracer and other industry tools
-- **Resume**: My professional resume is available to view/download [here](October2024Resume.pdf).
+- **Resume**: My professional resume is available to view/download [here](CurrentResume.pdf).
 
 
 ## 📧 Contact Information
