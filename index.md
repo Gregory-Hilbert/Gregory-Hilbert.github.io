@@ -86,13 +86,20 @@ Note from the author: These are tools that I am confident enough to use to compl
 
 ## My Projects & Labs
 
-These projects showcase my practical experience and skills. These are my most recent projects:
+These projects and labs showcase my practical experience and skills. These are my most recent works:
+
+**Disclaimer**: I consider projects to be setups I've configured myself, even if I’m using tools developed by others. I define labs as activities fully simulated by a third party where I work through provided tasks rather than setting up the environment.
+
+### SIEM Home Lab Setup (November 2024) <span style="color:magenta;">[Project]</span>
+- Successfully set up a home lab with Elastic SIEM and a Kali VM
+- Developed a custom dashboard in Elastic SIEM to visualize security events, showcasing abilities in data analysis and pattern recognition
+- Created alerting rules to detect and forward security events 
 
 ### DHCP Server Configuration (November 2024) <span style="color:magenta;">[Project]</span>
 - Configured a DHCP server with 2 different networks attached, utilizing static and dynamic IP addressing.
 - Created rules to avoid IP address conflicts, while maintaining routability across the networks. 
 
-### Cisco Network Configuration (November 2024) <span style="color:magenta;">[Project]</span>
+### Cisco Network Configuration (October 2024) <span style="color:magenta;">[Project]</span>
 - Configured a simple network using 4 PCs, 2 Cisco switches, and a Cisco router
 - Established connectivity between the devices by configuring the router's gigabit Ethernet ports and manually assigning static IP addresses to the PCs
   
