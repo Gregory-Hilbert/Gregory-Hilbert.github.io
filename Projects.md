@@ -9,6 +9,7 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ## Table of Contents
 - [Projects](#projects)
+  - [SIEM Home Lab Setup](#siem-home-lab-setup) 
   - [DHCP Server Configuration](#dhcp-server-configuration)
   - [Cisco Network Configuration](#cisco-network-configuration)
 
@@ -19,8 +20,16 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 ---
 
 ## Projects
+
+### SIEM Home Lab Setup
+[View Report](Project PDFs/SIEMproject.pdf)
+- Successfully set up a home lab with Elastic SIEM and a Kali VM
+- Used the SIEM's interface to query and analyze events
+- Developed a custom dashboard in Elastic SIEM to visualize security events, showcasing abilities in data analysis and pattern recognition
+- Created alerting rules to detect and forward security events
+
 ### DHCP Server Configuration
-[View Report](Project PDFs/DHCPconfigurationProject.pdf)
+[View Detailed Overview](Project PDFs/DHCPconfigurationProject.pdf)
 - Configured a DHCP server with 2 different networks attached, utilizing static and dynamic IP addressing.
 - Created rules to avoid IP address conflicts, while maintaining routability across the networks.
 
