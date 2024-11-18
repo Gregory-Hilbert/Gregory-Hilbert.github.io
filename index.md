@@ -40,6 +40,9 @@ My first "real" job was at the age of 17 in a customer service related job. Duri
 ---
 
 ### 🎓 Education
+   - ***MITx*** (2024-Present)
+      - ***Cybersecurity for Critical Urban Infrastructure***
+      - Studied the problems, causes, and scope of cyber attacks on critical urban infrastructure in the United States
    - ***Cisco Networking Academy*** (2024-Present)
       - Completed coursework in Network Configuration
       - Began CCNA certification prep course (SRWE focused)
