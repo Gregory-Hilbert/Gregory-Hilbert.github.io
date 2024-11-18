@@ -43,7 +43,7 @@ My first "real" job was at the age of 17 in a customer service related job. Duri
    - ***Cisco Networking Academy*** (2024-Present)
       - Completed coursework in Network Configuration
       - Began CCNA certification prep course (SRWE focused)
-   - ***Anderson County Highschool, Lawrenceburg, KY*** (2005-2009)
+   - ***Anderson County High School, Lawrenceburg, KY*** (2005-2009)
       - High School Diploma
       - Graduated from a top 20% school in Kentucky, ranked in the top 20% of graduating class
 
