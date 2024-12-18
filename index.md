@@ -93,6 +93,10 @@ These projects and labs showcase my practical experience and skills. These are m
 
 **Disclaimer**: I consider projects to be setups I've configured myself, even if I’m using tools developed by others. I define labs as activities fully simulated by a third party where I work through provided tasks rather than setting up the environment.
 
+### Random Password Generator (December 2024) <span style="color:magenta;">[Project]</span>
+- Used Python to develop a random password generator
+- Created a function to generate a random password of customizable length, ensuring the password contained at least one lowercase letter, uppercase letter, digit, and special character, using the random and string modules.
+
 ### SIEM Home Lab Setup (November 2024) <span style="color:magenta;">[Project]</span>
 - Successfully set up a home lab with Elastic SIEM and a Kali VM
 - Developed a custom dashboard in Elastic SIEM to visualize security events, showcasing abilities in data analysis and pattern recognition
