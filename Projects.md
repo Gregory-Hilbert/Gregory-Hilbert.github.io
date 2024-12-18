@@ -24,8 +24,9 @@ Showcasing my hands on projects and labs I've worked through. I'm very proud of 
 
 ### Random Password Generator 
  [View .PY File](Misc Files/password_generator.py)
- - Used Python to create a random password generator.
- - Defined a function that generates a random password with customizable length, requiring at least one lowercase letter, uppercase letter, digit, and special character using the random and string modules.
+ - Used Python to create a random password generator
+ - Defined a function that generates a random password with customizable length, requiring at least one lowercase letter, uppercase letter, digit, and special character using the random and string modules
+ - Ensured a guaranteed return message to the user even if the user typed something into the input box besides the number of characters they want their password to be
 
 ### SIEM Home Lab Setup
 [View Report](Project PDFs/SIEMproject.pdf)
